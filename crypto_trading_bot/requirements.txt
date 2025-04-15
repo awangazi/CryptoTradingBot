@@ -1,6 +1,6 @@
 # Core Data & Processing
 pandas
-numpy
+numpy==1.24.3
 requests
 ccxt
 pycoingecko
