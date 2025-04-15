@@ -117,7 +117,3 @@ This project is a self-learning crypto trading bot developed in Python but it ca
 ## Contributing
 
 Contributions are welcome! Please submit a pull request with your proposed changes.
-
-## License
-
-[Choose a license, e.g., MIT License]
