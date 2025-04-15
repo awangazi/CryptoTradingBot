@@ -1,8 +1,6 @@
 # CryptoTradingBot
 Put in the API in the .env file and start the program
 
-# Crypto Trading Bot
-
 ## Overview
 
 This project is a self-learning crypto trading bot developed in Python but it can be improved upon. The bot autonomously fetches and processes diverse data sources, performs comprehensive backtesting, dynamically learns via reinforcement learning, and executes trades with advanced risk management. The design incorporates modularity, allowing independent updates to each component.
